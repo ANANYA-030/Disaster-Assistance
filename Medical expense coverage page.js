@@ -36,3 +36,4 @@ const ExpenseComponent = ({
   }
 
 export default ExpenseComponent;
+
